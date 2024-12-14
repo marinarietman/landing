@@ -1,0 +1,37 @@
+@import url('https://fonts.cdnfonts.com/css/chava');
+
+
+
+.content{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+.contentbox{
+    display: flex;
+   justify-content: space-between;
+}
+
+.contentcard{
+    width: 400px;
+}
+
+section{
+    padding: 0 calc(10.6vw - 15.8px) calc(11.1vw + 18.4px);
+}
+
+h2{
+    font-size: 58px;
+    font-family: "TT Hoves";
+}
+
+.contentcard h3 {
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.contentcard p{
+    font-size: 27px;
+    line-height: 38px;
+}
